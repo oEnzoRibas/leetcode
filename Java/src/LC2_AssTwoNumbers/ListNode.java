@@ -1,4 +1,4 @@
-package LeetProblems.LC2_AssTwoNumbers;
+package LC2_AssTwoNumbers;
 //Definition for singlylinked list.
 
 public class ListNode {

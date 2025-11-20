@@ -1,4 +1,4 @@
-package LeetProblems.LC3_Longest_Substring_Without_Repeating_Characters;
+package LC3_Longest_Substring_Without_Repeating_Characters;
 
 /*
 Given a string s, find the length of the longest

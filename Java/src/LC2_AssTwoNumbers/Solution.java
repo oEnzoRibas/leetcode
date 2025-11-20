@@ -1,4 +1,4 @@
-package LeetProblems.LC2_AssTwoNumbers;
+package LC2_AssTwoNumbers;
 
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

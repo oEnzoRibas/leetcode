@@ -1,4 +1,4 @@
-package LeetProblems.LC1_TwoSum;
+package LC1_TwoSum;
 
 import java.util.HashMap;
 

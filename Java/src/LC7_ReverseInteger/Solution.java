@@ -1,4 +1,4 @@
-package LeetProblems.LC7_ReverseInteger;
+package LC7_ReverseInteger;
 
 class Solution {
     public int reverse(int x) {
